@@ -5,3 +5,4 @@
 *.sbx filter=lfs diff=lfs merge=lfs -text
 *.shp filter=lfs diff=lfs merge=lfs -text
 *.shx filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
